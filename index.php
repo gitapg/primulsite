@@ -16,7 +16,7 @@
     <![endif]-->
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <h1>Hello, world cu git!</h1>
     <script src="_js/bootstrap.js"></script>
 	<script src="_js/myscript.js"></script
   </body>
